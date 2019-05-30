@@ -1,0 +1,3 @@
+/Users/white/Documents/Programming/邓俊辉算法课/week3/Number_triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/white/Documents/Programming/邓俊辉算法课/week3/Number_triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/white/Documents/Programming/邓俊辉算法课/week3/Number_triangle/cmake-build-debug/CMakeFiles/Number_triangle.dir
